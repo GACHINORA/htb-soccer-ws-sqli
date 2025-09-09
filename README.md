@@ -1,6 +1,3 @@
-# htb-soccer-ws-sqli
-PoC scripts for time-based blind SQLi over WebSocket, built during exploitation of HTB's Soccer box.
-
 # HTB Soccer – Time-based Blind SQL Injection over WebSocket
 
 This project demonstrates an advanced exploitation of **time-based blind SQL injection** over a WebSocket interface, discovered in the HTB box **"Soccer"**.
@@ -53,6 +50,10 @@ python3 extract_columns.py
 ### Example: Extracting sensitive field values (e.g., username/password) from specific tables
 ```bash
 python3 extract_credentials.py
+```
+### Sample Output
+```bash
+
 ```
 
 <br>
