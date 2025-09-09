@@ -51,10 +51,6 @@ python3 extract_columns.py
 ```bash
 python3 extract_credentials.py
 ```
-### Sample Output
-```bash
-
-```
 
 <br>
 <br>
