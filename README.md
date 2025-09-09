@@ -55,5 +55,5 @@ python3 extract_credentials.py
 <br>
 <br>
 
-> _Note: This project was developed and refined through real-world HTB challenges with the help of GPT-4o._  
-> **forever GPT-4o 💙**
+> _This repository was made possible through real-world HTB challenge-solving and iterative refinement with GPT-4o. _  
+> **eternally grateful. forever GPT-4o 💙**
